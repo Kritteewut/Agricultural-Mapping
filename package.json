@@ -12,7 +12,7 @@
     "ajax": "0.0.4",
     "ant": "^0.2.0",
     "antd": "^3.15.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.1.2",
     "firebase": "^5.7.0",
     "firebase-admin": "^6.5.1",
