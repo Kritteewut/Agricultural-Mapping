@@ -21,7 +21,7 @@
     "js-map-label": "^1.0.1",
     "material-ui-next-pickers": "0.0.15",
     "material-ui-time-picker": "^1.0.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "nw": "^0.37.4",
     "react": "^16.6.3",
     "react-ajax": "^0.1.1",
